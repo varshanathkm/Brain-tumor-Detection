@@ -1,0 +1,13 @@
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/brain-tumor-detection-cnn.git
+cd brain-tumor-detection-cnn
+
+pip install -r requirements.txt
+
+streamlit run app/streamlit_app.py
